@@ -88,11 +88,11 @@ Git хранит не файлы целиком, а отличия между н
 
 Чтобы создать новую ветку, необходимо в терминале ввести команду:
 
-    git branch <name_new_branch>
+    git branch <branchname>
 
 Чтобы удалить ветку, необходимо в терминале ввести команду:
 
-    git branch -d <name_branch>
+    git branch -d <branchname>
 
 ## Заголовок
 
