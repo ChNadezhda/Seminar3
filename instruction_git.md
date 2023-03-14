@@ -120,3 +120,4 @@ Git хранит не файлы целиком, а отличия между н
     git log --graph
     git log --oneline --all --graph
 
+## Использование изображения в Git
